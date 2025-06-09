@@ -36,6 +36,5 @@ CaptainCook4D: Understanding Errors in Procedural Activities (NeurIPS 2024) [Vie
 
 ### 🛣️ Let's Connect!
 📫 Mail: [Bhavya Alekhya](vsbhavyaalekhya@gmail.com) \
-💼 LinkedIn: [Bhavya Alekhya](https://www.linkedin.com/in/bhavyaalekhya) 
 
 Thanks for stopping by! Feel free to explore my repositories and connect if you find anything interesting. I'm always open to collaborating on exciting projects or research initiatives!
