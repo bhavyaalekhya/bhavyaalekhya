@@ -35,6 +35,6 @@ CaptainCook4D: Understanding Errors in Procedural Activities (NeurIPS 2024) [Vie
 3. Awarded the Pyda Rajeswari Gold Medal for Best Outgoing Student and Dasary Endowment Award for Second Best Outgoing Student at JNTU Kakinada
 
 ### 🛣️ Let's Connect!
-📫 Mail: [Bhavya Alekhya](vsbhavyaalekhya@gmail.com) \
+📫 Mail: [Bhavya Alekhya](bhavyaalekhya3@gmail.com) 
 
 Thanks for stopping by! Feel free to explore my repositories and connect if you find anything interesting. I'm always open to collaborating on exciting projects or research initiatives!
