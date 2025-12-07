@@ -1,40 +1,75 @@
-## Hi there! I'm Bhavya Alekhya 👋
+# Hi there! I'm **Bhavya Alekhya** 👋
 
-<!--
-**bhavyaalekhya/bhavyaalekhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** experienced in building scalable, high-availability systems across frontend, backend, cloud, and AI/ML. I enjoy designing intuitive user interfaces, architecting reliable systems, and applying multimodal AI techniques to solve real-world problems.
 
-Here are some ideas to get you started:
+My work spans enterprise dashboards, microservices, distributed systems, CI/CD pipelines, and research in vision-language modeling — including a publication at **NeurIPS 2024**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 🚀 About Me
+---
 
-Beyond building software, I love tackling complex challenges, be it error recognition in procedural activities or enhancing user experience through efficient interfaces. I strive to blend the art of problem-solving with the science of computer engineering, contributing to impactful projects and publications.
+## 🚀 What I Do
 
-When I'm not coding, you can find me exploring new technologies, coordinating events like Zeitgeist Technical Symposium, or diving into a good book.
+### **Frontend Engineering**
+Building performant and accessible interfaces using **React, TypeScript, Redux, Tailwind, Material UI**  
+- Reduced dashboard page render time by **30%**  
+- Designed reusable UI components within a monorepo, reducing maintenance overhead by **25%**  
+- Improved user flows, responsiveness, and accessibility across global systems  
 
-### 🛠️ My Skill Set
-1. Programming Languages: Python, JavaScript, HTML, CSS, PHP
-2. Frameworks & Tools: ReactJS, NodeJS, ExpressJS, BootStrap, Laravel, Postman, Arduino
-3. Database: SQL, MySQL, MongoDB
-4. Testing & Automation: API Testing, Regression Testing, Automation with Python
+### **Backend & Cloud Engineering**
+Designing reliable APIs and distributed systems using **Node.js, Python, FastAPI, Flask**, powered by relational & NoSQL databases  
+- Improved backend throughput by **25%** through API + database optimizations  
+- Built event-driven pipelines using AWS Lambda  
+- Deployed containerized microservices on **AWS EKS** and automated CI/CD with GitHub Actions & Jenkins  
 
-### 🔗 Recent Publication
-CaptainCook4D: Understanding Errors in Procedural Activities (NeurIPS 2024) [View](https://captaincook4d.github.io/captain-cook/) 
+### **AI/ML Research & Engineering**
+Exploring multimodal reasoning, VLMs, and automation  
+- Co-created **CaptainCook4D** (94.5 hours, 384 videos), published at **NeurIPS 2024**  
+- Achieved **43.84% improvement** in zero-shot error recognition with prompt-ensembling (LLaMA, Video-LLaVA, TimeChat)  
+- Built CUDA-accelerated ML inference pipelines for video understanding  
 
-### 🏆 Certifications & Recognitions
-1. Oracle Cloud Infrastructure 2024 Generational AI Professional
-2. Generative AI for Software Development (DeepLearning.ai)
-3. Awarded the Pyda Rajeswari Gold Medal for Best Outgoing Student and Dasary Endowment Award for Second Best Outgoing Student at JNTU Kakinada
+---
 
-### 🛣️ Let's Connect!
-📫 Mail: [Bhavya Alekhya](bhavyaalekhya3@gmail.com) 
+## 🛠️ Tech Stack
 
-Thanks for stopping by! Feel free to explore my repositories and connect if you find anything interesting. I'm always open to collaborating on exciting projects or research initiatives!
+**Languages:** Python, TypeScript, JavaScript (ES6+), SQL  
+**Frontend:** React, Redux, Next.js, Tailwind, Material UI  
+**Backend:** Node.js, Express, FastAPI, Flask, REST, GraphQL  
+**Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB  
+**Cloud & DevOps:** AWS (EKS, Lambda, S3, EC2), Docker, Kubernetes, Terraform, GitHub Actions, Jenkins  
+**AI/ML:** PyTorch, TensorFlow, Vision-Language Models, LangChain, CUDA  
+**Tools:** Figma, Jira, Git, Linux, TDD/BDD  
+
+---
+
+## 🧠 Highlights & Recent Work
+
+### **CaptainCook4D: Understanding Errors in Procedural Activities (NeurIPS 2024)**  
+A large-scale egocentric dataset + benchmarking study for real-world error understanding in sequential tasks.  
+📄 _Link to paper_ (https://captaincook4d.github.io/captain-cook/)
+
+---
+
+## 🏆 Achievements & Certifications
+- **Oracle Cloud Infrastructure 2024 Generational AI Professional**  
+- **Generative AI for Software Development — DeepLearning.ai**  
+- **Pyda Rajeswari Gold Medal** – Best Outgoing Student  
+- **Dasary Endowment Award** – Second Best Outgoing Student  
+
+---
+
+## 🌱 Beyond Code
+
+Outside engineering, I enjoy:  
+- Researching multimodal AI systems  
+- Designing smooth, accessible user experiences  
+- Coordinating events like *Zeitgeist Technical Symposium*  
+- Exploring new technologies and reading about human–computer interaction  
+
+---
+
+## 📫 Let’s Connect!
+
+📧 Email: **b.alekhya.182@gmail.com**  
+🔗 LinkedIn: **https://linkedin.com/in/bhavyaalekhya**  
+💻 GitHub: **https://github.com/bhavyaalekhya**
+
+Thanks for visiting — feel free to explore my repositories or reach out for collaborations! 🚀
